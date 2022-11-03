@@ -1,5 +1,5 @@
 # Repositorio de ejercicios del curso
-Repositorio con la resolución de los ejericios del curso de testing
+Repositorio con la resoluición de los ejericios del curso de testing
 
 
                                                                       ████                                
@@ -73,11 +73,12 @@ Repositorio con la resolución de los ejericios del curso de testing
 
 ░░░░░░▒▒▒▒░░  ░░░░░░▓▓▒▒  ░░▒▒░░░░░░                                                                      
 ░░░░░░░░░░░░░░░░░░░░▒▒▒▒░░░░░░░░░░░░                                                                      
+LO was here
 
 
-
-Ana was here 
+Ana was here uwu
 
 
 ## Cafe de la tarde para aguantar sin siesta
+
 
